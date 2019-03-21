@@ -17,9 +17,3 @@ volumes: ['./:/usr/src/app']
 
 # To re-build
 docker-compose build
-```
-# docker-node-mongo
-# docker-node-mongo
-# docker-node-mongo
-# docker-node-mongo
-# docker-node-mongo
